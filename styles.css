@@ -52,3 +52,11 @@
         height: 24%;
     }
 }
+
+@media screen and (max-width: 414px) {
+    
+    .channel-video {
+        width: 95%;
+        height: 24%;
+    }
+}
